@@ -1,7 +1,8 @@
 ![logo](https://github.com/scienceLabwork/Rock_paper_scissor/blob/master/Wholelogo%20copy%202.png)
 
 # smsBomberPy
-Here is an Example of simple sms Bomber! Only for educational purpose. This is an sample code of Sms Bomber add more sites to send more number of messages.
+Here is an Example of simple sms Bomber! Only for educational purpose. This is an sample code of Sms Bomber add more sites to send more number of messages.</br>
+CREATED BY-Rudra Shah
 
 # How to start
 `git clone https://github.com/scienceLabwork/sblast-smsbomber`</br>
